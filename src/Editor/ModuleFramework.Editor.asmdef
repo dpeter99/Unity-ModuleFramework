@@ -1,0 +1,19 @@
+{
+    "name": "ModuleFramework.Editor",
+    "rootNamespace": "com.dpeter99.ModuleFramework.Editor",
+    "references": [
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:af0ac5bc03bcc3f4b8e4e9aaf76ff2cc"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
