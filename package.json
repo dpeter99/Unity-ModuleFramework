@@ -1,8 +1,8 @@
 {
-  "name": "com.dpeter99.frame",
+  "name": "com.dpeter99.module-framework",
   "version": "0.1.0",
-  "displayName": "Framework",
-  "description": "This package provides a Component for Unity GameObjects that allows users to add arbitrary fields to them in UnityEditor.",
+  "displayName": "Module Framework",
+  "description": "This pacakage contains a module provider that starts when the application starts.",
   "unity": "2021.2",
   "keywords": [
     "Component",
@@ -15,8 +15,5 @@
     "url": "https://github.com/dpeter99"
   },
   "hideInEditor": false,
-  "dependencies": {
-    
-  },
   "type": "library"
 }
